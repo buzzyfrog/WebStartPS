@@ -1,0 +1,3 @@
+﻿New-Item -Path './ShellCreated' -ItemType Directory; New-Item -Path './ShellCreated/index.html' -ItemType File; New-Item -Path './ShellCreated/#src' -ItemType Directory; 
+New-Item -Path './ShellCreated/js' -ItemType Directory; New-Item -Path './ShellCreated/img' -ItemType Directory; New-Item -Path './ShellCreated/font' -ItemType Directory;
+New-Item -Path './ShellCreated/css' -ItemType Directory; New-Item -Path './ShellCreated/js/script.js' -ItemType File; New-Item -Path './ShellCreated/css/style.css' -ItemType File;  
